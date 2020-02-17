@@ -1,36 +1,25 @@
-import string
-bookName = "98.txt"
-allwords = "allwords.txt"
-uniquewords = "uniquewords.txt"
-wordfrequency = "wordfrequency.txt"
-
-def main():
-	findallWords()
-	findunWords()
-	wordfrequency()
-
-
+import re 
 def findallWords():
-	data = open(bookName,'r')
-	data2 = open(uniquewords,'w')
+	data = open("PrideandPrejudice.txt",'r')
+	data2 = open("allwords.txt",'w')
 	words = []
 	for line in data:
 		line = line.lower()
 		line = line.strip("\n")
+		# remove all punctuation 
+		line = re.sub("[^\w+\s+]", "", line)
 		lst = line.split(" ")
 		for i in lst:
-			i = i.strip(string.punctuation)
-			if i == " " or i == "":
-				i = i + "i got it"
-				data2.write(i)
+			if i == "  " or i == "":
+				continue 
 			else:
 				i = i + "\n"
 				data2.write(i)
 
 
 def findunWords():
-	data = open(allwords,'r')
-	data2 = open(uniquewords,'w')
+	data = open("allwords.txt",'r')
+	data2 = open("uniquewords.txt",'w')
 	wordset = set()
 	for word in data:
 		word = word.strip("\n")
@@ -43,7 +32,7 @@ def findunWords():
 
 def wordfrequency():
 	wordDict = {}
-	data = open(allwords,'r')
+	data = open("allwords.txt",'r')
 	data2 = open("wordfrequency.txt",'w')
 	for word in data:
 		word = word.strip("\n")
@@ -52,11 +41,26 @@ def wordfrequency():
 		else:
 			wordDict[word] += 1
 
+	# get the freq
+	freqDict = {}
 	for word in wordDict:
-		number = wordDict[word]
-		result = word + " " + str(number) + "\n"
+		if wordDict[word] not in freqDict:
+			freqDict[wordDict[word]] = 1
+		else:
+			freqDict[wordDict[word]] += 1
+	
+	# sorting and print to txt 
+	for freq in sorted(freqDict.keys()):
+		number = freqDict[freq]
+		result = str(freq) + ": " + str(number) + "\n"
 		data2.write(result)
 
+
+
+def main():
+	findallWords()
+	findunWords()
+	wordfrequency()
 
 main()
 
