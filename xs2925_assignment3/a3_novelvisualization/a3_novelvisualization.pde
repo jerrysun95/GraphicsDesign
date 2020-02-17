@@ -38,7 +38,7 @@ void draw(){
   textAlign(LEFT);
   textSize(20);
   float x =20;
-  float y = 50;
+  float y = 20;
   float num = randWords.get(1).length();
   int count =0;
   for (int i = 0 ; i < randWords.size(); i++) {
