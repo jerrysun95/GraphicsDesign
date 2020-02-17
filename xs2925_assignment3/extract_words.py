@@ -7,7 +7,7 @@ def findallWords():
 		line = line.lower()
 		line = line.strip("\n")
 		# remove all punctuation 
-		line = re.sub("[^\w+\s+]", "", line)
+		line = re.sub("[^a-zA-Z\s]+", "", line)
 		lst = line.split(" ")
 		for i in lst:
 			if i == "  " or i == "":

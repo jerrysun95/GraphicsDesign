@@ -63,21 +63,16 @@ austen
 release
 date
 august
-26
-2008
 ebook
-1342
 last
 updated
 november
-12
-2019
 language
 english
 character
 set
 encoding
-utf8
+utf
 start
 of
 this
@@ -107,7 +102,6 @@ may
 viewed
 at
 ebook
-42671
 cover
 pride
 and
@@ -117,129 +111,67 @@ jane
 austen
 contents
 chapter
-1
 chapter
-2
 chapter
-3
 chapter
-4
 chapter
-5
 chapter
-6
 chapter
-7
 chapter
-8
 chapter
-9
 chapter
-10
 chapter
-11
 chapter
-12
 chapter
-13
 chapter
-14
 chapter
-15
 chapter
-16
 chapter
-17
 chapter
-18
 chapter
-19
 chapter
-20
 chapter
-21
 chapter
-22
 chapter
-23
 chapter
-24
 chapter
-25
 chapter
-26
 chapter
-27
 chapter
-28
 chapter
-29
 chapter
-30
 chapter
-31
 chapter
-32
 chapter
-33
 chapter
-34
 chapter
-35
 chapter
-36
 chapter
-37
 chapter
-38
 chapter
-39
 chapter
-40
 chapter
-41
 chapter
-42
 chapter
-43
 chapter
-44
 chapter
-45
 chapter
-46
 chapter
-47
 chapter
-48
 chapter
-49
 chapter
-50
 chapter
-51
 chapter
-52
 chapter
-53
 chapter
-54
 chapter
-55
 chapter
-56
 chapter
-57
 chapter
-58
 chapter
-59
 chapter
-60
 chapter
-61
 chapter
-1
 it
 is
 a
@@ -376,7 +308,7 @@ cried
 his
 wife
 impatiently
-_you_
+you
 want
 to
 tell
@@ -562,7 +494,7 @@ very
 likely
 that
 he
-_may_
+may
 fall
 in
 love
@@ -633,7 +565,7 @@ flatter
 me
 i
 certainly
-_have_
+have
 had
 my
 share
@@ -754,7 +686,7 @@ will
 be
 impossible
 for
-_us_
+us
 to
 visit
 him
@@ -855,7 +787,7 @@ you
 are
 always
 giving
-_her_
+her
 the
 preference
 they
@@ -1043,7 +975,7 @@ wife
 understand
 his
 character
-_her_
+her
 mind
 was
 less
@@ -1088,7 +1020,6 @@ visiting
 and
 news
 chapter
-2
 mr
 bennet
 was
@@ -1175,7 +1106,7 @@ a
 way
 to
 know
-_what_
+what
 mr
 bingley
 likes
@@ -1389,7 +1320,7 @@ introduce
 mr
 bingley
 to
-_her_
+her
 impossible
 mr
 bennet
@@ -1435,7 +1366,7 @@ a
 fortnight
 but
 if
-_we_
+we
 do
 not
 venture
@@ -1522,7 +1453,7 @@ quite
 agree
 with
 you
-_there_
+there
 what
 say
 you
@@ -1583,7 +1514,7 @@ am
 sorry
 to
 hear
-_that_
+that
 but
 why
 did
@@ -1826,7 +1757,7 @@ my
 love
 though
 you
-_are_
+are
 the
 youngest
 i
@@ -1853,7 +1784,7 @@ afraid
 for
 though
 i
-_am_
+am
 the
 youngest
 im
@@ -1886,7 +1817,6 @@ him
 to
 dinner
 chapter
-3
 not
 all
 that
@@ -2837,7 +2767,7 @@ you
 see
 uncommonly
 pretty
-_you_
+you
 are
 dancing
 with
@@ -2932,7 +2862,7 @@ handsome
 enough
 to
 tempt
-_me_
+me
 i
 am
 in
@@ -3259,7 +3189,7 @@ twice
 only
 think
 of
-_that_
+that
 my
 dear
 he
@@ -3376,7 +3306,7 @@ with
 lizzy
 and
 the
-_boulanger_
+boulanger
 if
 he
 had
@@ -3384,7 +3314,7 @@ had
 any
 compassion
 for
-_me_
+me
 cried
 her
 husband
@@ -3514,7 +3444,7 @@ much
 by
 not
 suiting
-_his_
+his
 fancy
 for
 he
@@ -3580,7 +3510,6 @@ detest
 the
 man
 chapter
-4
 when
 jane
 and
@@ -3687,7 +3616,7 @@ compliment
 did
 not
 you
-_i_
+i
 did
 for
 you
@@ -3702,11 +3631,11 @@ us
 compliments
 always
 take
-_you_
+you
 by
 surprise
 and
-_me_
+me
 never
 what
 could
@@ -3837,13 +3766,13 @@ do
 and
 it
 is
-_that_
+that
 which
 makes
 the
 wonder
 with
-_your_
+your
 good
 sense
 to
@@ -4635,7 +4564,6 @@ as
 he
 chose
 chapter
-5
 within
 a
 short
@@ -4869,7 +4797,7 @@ hear
 and
 to
 communicate
-_you_
+you
 began
 the
 evening
@@ -4884,7 +4812,7 @@ selfcommand
 to
 miss
 lucas
-_you_
+you
 were
 mr
 bingleys
@@ -4915,7 +4843,7 @@ to
 be
 sure
 that
-_did_
+did
 seem
 as
 if
@@ -4926,7 +4854,7 @@ i
 rather
 believe
 he
-_did_i
+didi
 heard
 something
 about
@@ -4983,7 +4911,7 @@ in
 the
 room
 and
-_which_
+which
 he
 thought
 the
@@ -5034,7 +4962,7 @@ to
 nothing
 you
 know
-_my_
+my
 overhearings
 were
 more
@@ -5042,7 +4970,7 @@ to
 the
 purpose
 than
-_yours_
+yours
 eliza
 said
 charlotte
@@ -5064,7 +4992,7 @@ elizato
 be
 only
 just
-_tolerable_
+tolerable
 i
 beg
 you
@@ -5184,7 +5112,7 @@ his
 intimate
 acquaintances
 with
-_them_
+them
 he
 is
 remarkably
@@ -5287,7 +5215,7 @@ would
 not
 dance
 with
-_him_
+him
 if
 i
 were
@@ -5300,7 +5228,7 @@ may
 safely
 promise
 you
-_never_
+never
 to
 dance
 with
@@ -5313,7 +5241,7 @@ lucas
 does
 not
 offend
-_me_
+me
 so
 much
 as
@@ -5358,7 +5286,7 @@ it
 he
 has
 a
-_right_
+right
 to
 be
 proud
@@ -5373,14 +5301,14 @@ i
 could
 easily
 forgive
-_his_
+his
 pride
 if
 he
 had
 not
 mortified
-_mine_
+mine
 pride
 observed
 mary
@@ -5583,7 +5511,6 @@ with
 the
 visit
 chapter
-6
 the
 ladies
 of
@@ -5640,7 +5567,7 @@ being
 better
 acquainted
 with
-_them_
+them
 was
 expressed
 towards
@@ -5710,12 +5637,12 @@ they
 met
 that
 he
-_did_
+did
 admire
 her
 and
 to
-_her_
+her
 it
 was
 equally
@@ -5897,7 +5824,7 @@ itself
 we
 can
 all
-_begin_
+begin
 freelya
 slight
 preference
@@ -5933,7 +5860,7 @@ woman
 had
 better
 show
-_more_
+more
 affection
 than
 she
@@ -5973,7 +5900,7 @@ nature
 will
 allow
 if
-_i_
+i
 can
 perceive
 her
@@ -6230,7 +6157,7 @@ it
 had
 she
 merely
-_dined_
+dined
 with
 him
 she
@@ -6835,7 +6762,7 @@ us
 it
 will
 be
-_her_
+her
 turn
 soon
 to
@@ -7923,7 +7850,6 @@ wit
 flowed
 long
 chapter
-7
 mr
 bennets
 property
@@ -8710,7 +8636,7 @@ for
 a
 whole
 days
-_têteàtête_
+ttette
 between
 two
 women
@@ -8758,7 +8684,7 @@ not
 tell
 us
 of
-_that_
+that
 dining
 out
 said
@@ -9904,7 +9830,6 @@ supply
 of
 clothes
 chapter
-8
 at
 five
 oclock
@@ -10232,7 +10157,7 @@ at
 all
 why
 must
-_she_
+she
 be
 scampering
 about
@@ -10323,7 +10248,7 @@ quite
 escaped
 my
 notice
-_you_
+you
 observed
 it
 mr
@@ -10347,8 +10272,8 @@ not
 wish
 to
 see
-_your
-sister_
+your
+sister
 make
 such
 an
@@ -10551,7 +10476,7 @@ uncles
 enough
 to
 fill
-_all_
+all
 cheapside
 cried
 bingley
@@ -10781,7 +10706,7 @@ cried
 elizabeth
 i
 am
-_not_
+not
 a
 great
 reader
@@ -10987,7 +10912,7 @@ charles
 when
 you
 build
-_your_
+your
 house
 i
 wish
@@ -11481,7 +11406,7 @@ surprised
 at
 your
 knowing
-_only_
+only
 six
 accomplished
 women
@@ -11492,7 +11417,7 @@ now
 at
 your
 knowing
-_any_
+any
 are
 you
 so
@@ -11509,13 +11434,13 @@ possibility
 of
 all
 this
-_i_
+i
 never
 saw
 such
 a
 woman
-_i_
+i
 never
 saw
 such
@@ -11658,7 +11583,7 @@ is
 a
 meanness
 in
-_all_
+all
 the
 arts
 which
@@ -11833,7 +11758,6 @@ and
 her
 sister
 chapter
-9
 elizabeth
 passed
 the
@@ -12219,7 +12143,7 @@ they
 are
 nothing
 to
-_her_
+her
 you
 have
 a
@@ -12433,7 +12357,7 @@ intricate
 characters
 are
 the
-_most_
+most
 amusing
 they
 have
@@ -12511,7 +12435,7 @@ quite
 as
 much
 of
-_that_
+that
 going
 on
 in
@@ -12776,7 +12700,7 @@ been
 at
 longbourn
 since
-_her_
+her
 coming
 away
 yes
@@ -12816,7 +12740,7 @@ to
 say
 to
 everybody
-_that_
+that
 is
 my
 idea
@@ -12863,7 +12787,7 @@ my
 part
 mr
 bingley
-_i_
+i
 always
 keep
 servants
@@ -12873,7 +12797,7 @@ do
 their
 own
 work
-_my_
+my
 daughters
 are
 brought
@@ -12910,11 +12834,11 @@ not
 handsome
 not
 that
-_i_
+i
 think
 charlotte
 so
-_very_
+very
 plainbut
 then
 she
@@ -13088,7 +13012,7 @@ consider
 poetry
 as
 the
-_food_
+food
 of
 love
 said
@@ -13476,7 +13400,7 @@ when
 you
 have
 given
-_your_
+your
 ball
 she
 added
@@ -13549,7 +13473,7 @@ in
 their
 censure
 of
-_her_
+her
 in
 spite
 of
@@ -13558,10 +13482,9 @@ miss
 bingleys
 witticisms
 on
-_fine
-eyes_
+fine
+eyes
 chapter
-10
 the
 day
 passed
@@ -13983,7 +13906,7 @@ brother
 because
 he
 does
-_not_
+not
 write
 with
 ease
@@ -14097,7 +14020,7 @@ two
 do
 you
 call
-_my_
+my
 little
 recent
 piece
@@ -14573,7 +14496,7 @@ to
 yield
 readilyeasilyto
 the
-_persuasion_
+persuasion
 of
 a
 friend
@@ -15762,7 +15685,6 @@ hours
 that
 evening
 chapter
-11
 when
 the
 ladies
@@ -16110,7 +16032,7 @@ mr
 darcys
 progress
 through
-_his_
+his
 book
 as
 in
@@ -16835,7 +16757,7 @@ my
 honour
 i
 do
-_not_
+not
 i
 do
 assure
@@ -16848,7 +16770,7 @@ not
 yet
 taught
 me
-_that_
+that
 tease
 calmness
 of
@@ -16920,7 +16842,7 @@ a
 great
 loss
 to
-_me_
+me
 to
 have
 many
@@ -16985,7 +16907,7 @@ am
 not
 one
 of
-_them_
+them
 i
 hope
 i
@@ -17002,7 +16924,7 @@ nonsense
 whims
 and
 inconsistencies
-_do_
+do
 divert
 me
 i
@@ -17212,7 +17134,7 @@ lost
 is
 lost
 forever
-_that_
+that
 is
 a
 failing
@@ -17221,7 +17143,7 @@ cried
 elizabeth
 implacable
 resentment
-_is_
+is
 a
 shade
 in
@@ -17237,7 +17159,7 @@ well
 i
 really
 cannot
-_laugh_
+laugh
 at
 it
 you
@@ -17269,7 +17191,7 @@ education
 can
 overcome
 and
-_your_
+your
 defect
 is
 to
@@ -17353,7 +17275,6 @@ too
 much
 attention
 chapter
-12
 in
 consequence
 of
@@ -17669,7 +17590,7 @@ bingley
 was
 uncivil
 to
-_her_
+her
 and
 more
 teasing
@@ -17690,7 +17611,7 @@ sign
 of
 admiration
 should
-_now_
+now
 escape
 him
 nothing
@@ -18024,7 +17945,6 @@ to
 be
 married
 chapter
-13
 i
 hope
 my
@@ -18089,7 +18009,7 @@ call
 inand
 i
 hope
-_my_
+my
 dinners
 are
 good
@@ -18176,7 +18096,7 @@ this
 moment
 it
 is
-_not_
+not
 mr
 bingley
 said
@@ -18527,8 +18447,8 @@ hunsford
 near
 westerham
 kent
-15_th
-october_
+th
+october
 dear
 sir
 the
@@ -18832,7 +18752,7 @@ your
 family
 monday
 november
-18th
+th
 by
 four
 oclock
@@ -19451,7 +19371,7 @@ to
 find
 fault
 with
-_you_
+you
 for
 such
 things
@@ -19693,7 +19613,6 @@ of
 an
 hour
 chapter
-14
 during
 dinner
 mr
@@ -19879,7 +19798,7 @@ people
 he
 knew
 but
-_he_
+he
 had
 never
 seen
@@ -20812,7 +20731,6 @@ prepared
 for
 backgammon
 chapter
-15
 mr
 collins
 was
@@ -21105,7 +21023,7 @@ for
 the
 first
 evening
-_she_
+she
 was
 his
 settled
@@ -21124,7 +21042,7 @@ quarter
 of
 an
 hours
-_têteàtête_
+ttette
 with
 mrs
 bennet
@@ -21178,7 +21096,7 @@ on
 as
 to
 her
-_younger_
+younger
 daughters
 she
 could
@@ -21195,12 +21113,12 @@ answerbut
 she
 did
 not
-_know_
+know
 of
 any
 prepossession
 her
-_eldest_
+eldest
 daughter
 she
 must
@@ -21502,7 +21420,7 @@ to
 be
 gained
 by
-_him_
+him
 their
 eyes
 were
@@ -22504,7 +22422,6 @@ of
 his
 life
 chapter
-16
 as
 no
 objection
@@ -22896,7 +22813,7 @@ air
 and
 walk
 as
-_they_
+they
 were
 superior
 to
@@ -23408,7 +23325,7 @@ no
 right
 to
 give
-_my_
+my
 opinion
 said
 wickham
@@ -23444,7 +23361,7 @@ it
 is
 impossible
 for
-_me_
+me
 to
 be
 impartial
@@ -23484,7 +23401,7 @@ i
 say
 no
 more
-_here_
+here
 than
 i
 might
@@ -23549,7 +23466,7 @@ their
 deserts
 but
 with
-_him_
+him
 i
 believe
 it
@@ -23590,7 +23507,7 @@ take
 him
 even
 on
-_my_
+my
 slight
 acquaintance
 to
@@ -23632,7 +23549,7 @@ all
 know
 but
 i
-_heard_
+heard
 nothing
 of
 his
@@ -23667,7 +23584,7 @@ noit
 is
 not
 for
-_me_
+me
 to
 be
 driven
@@ -23676,12 +23593,12 @@ by
 mr
 darcy
 if
-_he_
+he
 wishes
 to
 avoid
 seeing
-_me_
+me
 he
 must
 go
@@ -23707,7 +23624,7 @@ no
 reason
 for
 avoiding
-_him_
+him
 but
 what
 i
@@ -23945,7 +23862,7 @@ not
 bear
 solitude
 i
-_must_
+must
 have
 employment
 and
@@ -23969,7 +23886,7 @@ it
 eligible
 the
 church
-_ought_
+ought
 to
 have
 been
@@ -24069,7 +23986,7 @@ elizabeth
 but
 how
 could
-_that_
+that
 be
 how
 could
@@ -24210,10 +24127,10 @@ have
 spoken
 my
 opinion
-_of_
+of
 him
 and
-_to_
+to
 him
 too
 freely
@@ -24254,14 +24171,14 @@ time
 or
 other
 he
-_will_
+will
 bebut
 it
 shall
 not
 be
 by
-_me_
+me
 till
 i
 can
@@ -24274,7 +24191,7 @@ never
 defy
 or
 expose
-_him_
+him
 elizabeth
 honoured
 him
@@ -24444,7 +24361,7 @@ however
 she
 continued
 i
-_do_
+do
 remember
 his
 boasting
@@ -24479,7 +24396,7 @@ the
 subject
 replied
 wickham
-_i_
+i
 can
 hardly
 be
@@ -24521,7 +24438,7 @@ young
 man
 too
 like
-_you_
+you
 whose
 very
 countenance
@@ -24592,7 +24509,7 @@ the
 same
 parental
 care
-_my_
+my
 father
 began
 life
@@ -24699,7 +24616,7 @@ debt
 of
 gratitude
 to
-_him_
+him
 as
 of
 his
@@ -24751,7 +24668,7 @@ must
 call
 it
 it
-_is_
+is
 wonderful
 replied
 wickham
@@ -24846,7 +24763,7 @@ poor
 family
 pride
 and
-_filial_
+filial
 pridefor
 he
 is
@@ -24887,11 +24804,11 @@ motive
 he
 has
 also
-_brotherly_
+brotherly
 pride
 which
 with
-_some_
+some
 brotherly
 affection
 makes
@@ -25855,7 +25772,6 @@ at
 longbourn
 house
 chapter
-17
 elizabeth
 related
 to
@@ -26052,7 +25968,7 @@ the
 business
 do
 clear
-_them_
+them
 too
 or
 we
@@ -26237,8 +26153,8 @@ mr
 bingley
 if
 he
-_had
-been_
+had
+been
 imposed
 on
 would
@@ -26874,7 +26790,7 @@ first
 struck
 her
 that
-_she_
+she
 was
 selected
 from
@@ -26967,7 +26883,7 @@ was
 extremely
 agreeable
 to
-_her_
+her
 elizabeth
 however
 did
@@ -27130,7 +27046,6 @@ kitty
 and
 lydia
 chapter
-18
 till
 elizabeth
 entered
@@ -27670,7 +27585,7 @@ very
 agreeable
 heaven
 forbid
-_that_
+that
 would
 be
 the
@@ -27863,7 +27778,7 @@ second
 time
 withit
 is
-_your_
+your
 turn
 to
 say
@@ -27871,13 +27786,13 @@ something
 now
 mr
 darcy
-_i_
+i
 talked
 about
 the
 dance
 and
-_you_
+you
 ought
 to
 make
@@ -27937,7 +27852,7 @@ than
 public
 ones
 but
-_now_
+now
 we
 may
 be
@@ -27979,7 +27894,7 @@ for
 the
 advantage
 of
-_some_
+some
 conversation
 ought
 to
@@ -28068,7 +27983,7 @@ posterity
 with
 all
 the
-_éclat_
+clat
 of
 a
 proverb
@@ -28093,13 +28008,13 @@ it
 may
 be
 to
-_mine_
+mine
 i
 cannot
 pretend
 to
 say
-_you_
+you
 think
 it
 a
@@ -28182,7 +28097,7 @@ a
 deeper
 shade
 of
-_hauteur_
+hauteur
 overspread
 his
 features
@@ -28227,7 +28142,7 @@ as
 may
 ensure
 his
-_making_
+making
 friendswhether
 he
 may
@@ -28235,7 +28150,7 @@ be
 equally
 capable
 of
-_retaining_
+retaining
 them
 is
 less
@@ -28614,7 +28529,7 @@ of
 something
 else
 the
-_present_
+present
 always
 occupies
 you
@@ -28684,8 +28599,8 @@ suppose
 as
 to
 its
-_being
-created_
+being
+created
 i
 am
 said
@@ -28738,7 +28653,7 @@ to
 the
 illustration
 of
-_your_
+your
 character
 said
 she
@@ -29186,7 +29101,7 @@ darcys
 steward
 and
 of
-_that_
+that
 i
 can
 assure
@@ -29560,7 +29475,7 @@ was
 left
 to
 him
-_conditionally_
+conditionally
 only
 i
 have
@@ -29896,7 +29811,7 @@ to
 be
 lady
 catherines
-_nephew_
+nephew
 it
 will
 be
@@ -30856,7 +30771,7 @@ obliged
 to
 say
 nothing
-_he_
+he
 may
 not
 like
@@ -32287,7 +32202,7 @@ quite
 good
 enough
 for
-_her_
+her
 the
 worth
 of
@@ -32300,7 +32215,6 @@ bingley
 and
 netherfield
 chapter
-19
 the
 next
 day
@@ -32542,7 +32456,7 @@ she
 added
 lizzy
 i
-_insist_
+insist
 upon
 your
 staying
@@ -32649,7 +32563,7 @@ my
 eyes
 had
 there
-_not_
+not
 been
 this
 little
@@ -32933,12 +32847,12 @@ choose
 a
 gentlewoman
 for
-_my_
+my
 sake
 and
 for
 your
-_own_
+own
 let
 her
 be
@@ -33502,7 +33416,7 @@ you
 could
 not
 make
-_me_
+me
 happy
 and
 i
@@ -34212,7 +34126,6 @@ an
 elegant
 female
 chapter
-20
 mr
 collins
 was
@@ -34420,7 +34333,7 @@ interest
 but
 i
 will
-_make_
+make
 her
 know
 it
@@ -34619,7 +34532,7 @@ mind
 and
 not
 have
-_her_
+her
 mr
 bennet
 raised
@@ -34859,7 +34772,7 @@ again
 if
 you
 do
-_not_
+not
 marry
 mr
 collins
@@ -34872,7 +34785,7 @@ you
 again
 if
 you
-_do_
+do
 elizabeth
 could
 not
@@ -34919,7 +34832,7 @@ you
 promised
 me
 to
-_insist_
+insist
 upon
 her
 marrying
@@ -35357,7 +35270,7 @@ your
 father
 is
 dead
-_i_
+i
 shall
 not
 be
@@ -35843,7 +35756,7 @@ family
 and
 if
 my
-_manner_
+manner
 has
 been
 at
@@ -35856,7 +35769,6 @@ leave
 to
 apologise
 chapter
-21
 the
 discussion
 of
@@ -35896,7 +35808,7 @@ for
 the
 gentleman
 himself
-_his_
+his
 feelings
 were
 chiefly
@@ -36091,7 +36003,7 @@ necessity
 of
 his
 absence
-_had_
+had
 been
 selfimposed
 i
@@ -36841,7 +36753,7 @@ not
 mean
 that
 he
-_should_
+should
 why
 will
 you
@@ -36863,9 +36775,9 @@ you
 do
 not
 know
-_all_
+all
 i
-_will_
+will
 read
 you
 the
@@ -36880,7 +36792,7 @@ have
 no
 reserves
 from
-_you_
+you
 mr
 darcy
 is
@@ -36894,7 +36806,7 @@ to
 confess
 the
 truth
-_we_
+we
 are
 scarcely
 less
@@ -37072,7 +36984,7 @@ do
 you
 think
 of
-_this_
+this
 sentence
 my
 dear
@@ -37298,7 +37210,7 @@ when
 there
 has
 been
-_one_
+one
 intermarriage
 she
 may
@@ -37361,7 +37273,7 @@ degree
 less
 sensible
 of
-_your_
+your
 merit
 than
 when
@@ -37848,7 +37760,6 @@ two
 full
 courses
 chapter
-22
 the
 bennets
 were
@@ -38401,8 +38312,8 @@ girls
 formed
 hopes
 of
-_coming
-out_
+coming
+out
 a
 year
 or
@@ -38909,7 +38820,7 @@ and
 be
 satisfied
 that
-_we_
+we
 shall
 take
 no
@@ -39570,7 +39481,6 @@ she
 had
 chosen
 chapter
-23
 elizabeth
 was
 sitting
@@ -40686,7 +40596,7 @@ attachment
 as
 for
 jane
-_her_
+her
 anxiety
 under
 this
@@ -41009,7 +40919,7 @@ of
 this
 house
 that
-_i_
+i
 should
 be
 forced
@@ -41017,7 +40927,7 @@ to
 make
 way
 for
-_her_
+her
 and
 live
 to
@@ -41049,7 +40959,7 @@ us
 flatter
 ourselves
 that
-_i_
+i
 may
 be
 the
@@ -41165,7 +41075,7 @@ collins
 too
 why
 should
-_he_
+he
 have
 it
 more
@@ -41183,7 +41093,6 @@ said
 mr
 bennet
 chapter
-24
 miss
 bingleys
 letter
@@ -41724,7 +41633,7 @@ god
 i
 have
 not
-_that_
+that
 pain
 a
 little
@@ -41839,7 +41748,7 @@ this
 is
 not
 fair
-_you_
+you
 wish
 to
 think
@@ -41856,12 +41765,12 @@ speak
 ill
 of
 anybody
-_i_
+i
 only
 want
 to
 think
-_you_
+you
 perfect
 and
 you
@@ -42227,7 +42136,7 @@ something
 else
 you
 mentioned
-_two_
+two
 instances
 i
 cannot
@@ -42245,8 +42154,8 @@ pain
 me
 by
 thinking
-_that
-person_
+that
+person
 to
 blame
 and
@@ -43110,7 +43019,6 @@ worst
 of
 men
 chapter
-25
 after
 a
 week
@@ -43710,7 +43618,7 @@ will
 not
 do
 for
-_us_
+us
 we
 do
 not
@@ -43796,8 +43704,8 @@ strong
 attachment
 pray
 how
-_violent
-was_
+violent
+was
 mr
 bingleys
 love
@@ -43910,7 +43818,7 @@ better
 have
 happened
 to
-_you_
+you
 lizzy
 you
 would
@@ -44030,7 +43938,7 @@ to
 see
 her
 and
-_that_
+that
 is
 quite
 impossible
@@ -44076,7 +43984,7 @@ darcy
 may
 perhaps
 have
-_heard_
+heard
 of
 such
 a
@@ -44135,7 +44043,7 @@ correspond
 with
 his
 sister
-_she_
+she
 will
 not
 be
@@ -44618,7 +44526,6 @@ proud
 illnatured
 boy
 chapter
-26
 mrs
 gardiners
 caution
@@ -44714,7 +44621,7 @@ nothing
 to
 say
 against
-_him_
+him
 he
 is
 a
@@ -44770,7 +44677,7 @@ father
 would
 depend
 on
-_your_
+your
 resolution
 and
 good
@@ -44901,7 +44808,7 @@ imprudence
 of
 it
 oh
-_that_
+that
 abominable
 mr
 darcy
@@ -45076,7 +44983,7 @@ least
 you
 should
 not
-_remind_
+remind
 your
 mother
 of
@@ -45105,7 +45012,7 @@ me
 to
 refrain
 from
-_that_
+that
 but
 do
 not
@@ -45270,7 +45177,7 @@ illnatured
 tone
 that
 she
-_wished_
+wished
 they
 might
 be
@@ -45335,7 +45242,7 @@ you
 very
 often
 eliza
-_that_
+that
 you
 certainly
 shall
@@ -46237,7 +46144,7 @@ myself
 farther
 and
 though
-_we_
+we
 know
 this
 anxiety
@@ -46654,7 +46561,7 @@ satisfied
 with
 believing
 that
-_she_
+she
 would
 have
 been
@@ -46817,7 +46724,7 @@ not
 only
 cordial
 towards
-_him_
+him
 they
 are
 even
@@ -46948,7 +46855,6 @@ as
 the
 plain
 chapter
-27
 with
 no
 greater
@@ -47793,7 +47699,7 @@ for
 him
 to
 gain
-_my_
+my
 affections
 because
 i
@@ -47857,7 +47763,7 @@ people
 may
 observe
 if
-_she_
+she
 does
 not
 object
@@ -47865,14 +47771,14 @@ to
 it
 why
 should
-_we_
-_her_
+we
+her
 not
 objecting
 does
 not
 justify
-_him_
+him
 it
 only
 shows
@@ -47892,12 +47798,12 @@ it
 as
 you
 choose
-_he_
+he
 shall
 be
 mercenary
 and
-_she_
+she
 shall
 be
 foolish
@@ -47908,7 +47814,7 @@ is
 what
 i
 do
-_not_
+not
 choose
 i
 should
@@ -48129,7 +48035,7 @@ spend
 and
 when
 we
-_do_
+do
 return
 it
 shall
@@ -48149,13 +48055,13 @@ idea
 of
 anything
 we
-_will_
+will
 know
 where
 we
 have
 gonewe
-_will_
+will
 recollect
 what
 we
@@ -48191,7 +48097,7 @@ its
 relative
 situation
 let
-_our_
+our
 first
 effusions
 be
@@ -48205,7 +48111,6 @@ generality
 of
 travellers
 chapter
-28
 every
 object
 in
@@ -49110,7 +49015,7 @@ ordered
 for
 us
 i
-_should_
+should
 say
 one
 of
@@ -49657,7 +49562,6 @@ the
 next
 day
 chapter
-29
 mr
 collinss
 triumph
@@ -51543,7 +51447,7 @@ is
 not
 sixteen
 perhaps
-_she_
+she
 is
 full
 young
@@ -51610,7 +51514,7 @@ be
 kept
 back
 on
-_such_
+such
 a
 motive
 i
@@ -52036,7 +51940,6 @@ his
 own
 hands
 chapter
-30
 sir
 william
 stayed
@@ -53263,7 +53166,6 @@ afterwards
 went
 away
 chapter
-31
 colonel
 fitzwilliams
 manners
@@ -53549,7 +53451,7 @@ as
 of
 mr
 darcy
-_his_
+his
 eyes
 had
 been
@@ -54021,7 +53923,7 @@ alarmed
 though
 your
 sister
-_does_
+does
 play
 so
 well
@@ -54554,7 +54456,7 @@ i
 do
 not
 believe
-_my_
+my
 fingers
 as
 capable
@@ -54744,7 +54646,7 @@ as
 likely
 to
 marry
-_her_
+her
 had
 she
 been
@@ -54799,7 +54701,6 @@ them
 all
 home
 chapter
-32
 elizabeth
 was
 sitting
@@ -54953,7 +54854,7 @@ in
 this
 emergence
 recollecting
-_when_
+when
 she
 had
 seen
@@ -55441,7 +55342,7 @@ as
 one
 of
 the
-_advantages_
+advantages
 of
 the
 match
@@ -55456,7 +55357,7 @@ mrs
 collins
 was
 settled
-_near_
+near
 her
 family
 it
@@ -55565,7 +55466,7 @@ is
 not
 the
 case
-_here_
+here
 mr
 and
 mrs
@@ -55594,13 +55495,13 @@ would
 not
 call
 herself
-_near_
+near
 her
 family
 under
 less
 than
-_half_
+half
 the
 present
 distance
@@ -55615,7 +55516,7 @@ towards
 her
 and
 said
-_you_
+you
 cannot
 have
 a
@@ -55626,7 +55527,7 @@ very
 strong
 local
 attachment
-_you_
+you
 cannot
 have
 been
@@ -55703,7 +55604,7 @@ from
 her
 walk
 the
-_têteàtête_
+ttette
 surprised
 them
 mr
@@ -56298,7 +56199,6 @@ none
 at
 all
 chapter
-33
 more
 than
 once
@@ -56499,7 +56399,7 @@ she
 would
 be
 staying
-_there_
+there
 too
 his
 words
@@ -57291,7 +57191,7 @@ i
 really
 believe
 darcy
-_does_
+does
 take
 care
 of
@@ -57776,7 +57676,7 @@ exist
 in
 the
 world
-_two_
+two
 men
 over
 whom
@@ -57829,7 +57729,7 @@ did
 not
 mislead
 him
-_he_
+he
 was
 the
 cause
@@ -57996,7 +57896,7 @@ allow
 that
 any
 objections
-_there_
+there
 had
 material
 weight
@@ -58151,7 +58051,6 @@ staying
 at
 home
 chapter
-34
 when
 they
 were
@@ -58805,7 +58704,7 @@ a
 favourable
 answer
 he
-_spoke_
+spoke
 of
 apprehension
 and
@@ -58876,7 +58775,7 @@ and
 if
 i
 could
-_feel_
+feel
 gratitude
 i
 would
@@ -59056,7 +58955,7 @@ why
 with
 so
 little
-_endeavour_
+endeavour
 at
 civility
 i
@@ -59116,7 +59015,7 @@ for
 incivility
 if
 i
-_was_
+was
 uncivil
 but
 i
@@ -59221,7 +59120,7 @@ ungenerous
 part
 you
 acted
-_there_
+there
 you
 dare
 not
@@ -59356,7 +59255,7 @@ in
 my
 success
 towards
-_him_
+him
 i
 have
 been
@@ -60238,7 +60137,6 @@ to
 her
 room
 chapter
-35
 elizabeth
 awoke
 the
@@ -61159,13 +61057,13 @@ participation
 of
 sentiment
 if
-_you_
+you
 have
 not
 been
 mistaken
 here
-_i_
+i
 must
 have
 been
@@ -61946,7 +61844,7 @@ of
 what
 he
 has
-_particularly_
+particularly
 accused
 me
 i
@@ -63167,10 +63065,10 @@ if
 your
 abhorrence
 of
-_me_
+me
 should
 make
-_my_
+my
 assertions
 valueless
 you
@@ -63226,7 +63124,6 @@ you
 fitzwilliam
 darcy
 chapter
-36
 if
 elizabeth
 when
@@ -64252,7 +64149,7 @@ her
 memory
 she
 was
-_now_
+now
 struck
 with
 the
@@ -64313,7 +64210,7 @@ the
 country
 but
 that
-_he_
+he
 should
 stand
 his
@@ -64814,7 +64711,7 @@ that
 mr
 darcys
 explanation
-_there_
+there
 had
 appeared
 very
@@ -65200,7 +65097,7 @@ elizabeth
 could
 but
 just
-_affect_
+affect
 concern
 in
 missing
@@ -65225,7 +65122,6 @@ of
 her
 letter
 chapter
-37
 the
 two
 gentlemen
@@ -65690,7 +65586,7 @@ you
 will
 stay
 another
-_month_
+month
 complete
 it
 will
@@ -65926,7 +65822,7 @@ really
 be
 discreditable
 to
-_you_
+you
 to
 let
 them
@@ -66597,7 +66493,6 @@ hand
 to
 both
 chapter
-38
 on
 saturday
 morning
@@ -66785,7 +66680,7 @@ had
 received
 must
 make
-_her_
+her
 feel
 the
 obliged
@@ -67632,7 +67527,6 @@ her
 sister
 further
 chapter
-39
 it
 was
 the
@@ -67972,7 +67866,7 @@ have
 yes
 thought
 elizabeth
-_that_
+that
 would
 be
 a
@@ -68216,7 +68110,7 @@ there
 is
 not
 on
-_his_
+his
 i
 will
 answer
@@ -68229,7 +68123,7 @@ three
 straws
 about
 herwho
-_could_
+could
 about
 such
 a
@@ -68249,13 +68143,13 @@ of
 such
 coarseness
 of
-_expression_
+expression
 herself
 the
 coarseness
 of
 the
-_sentiment_
+sentiment
 was
 little
 other
@@ -68449,7 +68343,7 @@ taken
 mr
 collins
 but
-_i_
+i
 do
 not
 think
@@ -68477,7 +68371,7 @@ and
 then
 i
 would
-_chaperon_
+chaperon
 you
 about
 to
@@ -68529,7 +68423,7 @@ forster
 and
 me
 are
-_such_
+such
 friends
 and
 so
@@ -68655,7 +68549,7 @@ should
 have
 died
 and
-_that_
+that
 made
 the
 men
@@ -69037,7 +68931,7 @@ have
 no
 charms
 for
-_me_i
+mei
 should
 infinitely
 prefer
@@ -69151,7 +69045,7 @@ possible
 the
 comfort
 to
-_her_
+her
 of
 the
 regiments
@@ -69256,7 +69150,6 @@ succeeding
 at
 last
 chapter
-40
 elizabeths
 impatience
 to
@@ -69463,7 +69356,7 @@ you
 did
 but
 you
-_will_
+will
 know
 it
 when
@@ -69842,7 +69735,7 @@ so
 deficient
 in
 the
-_appearance_
+appearance
 of
 it
 as
@@ -70008,7 +69901,7 @@ darcy
 for
 now
 they
-_do_
+do
 appear
 wholly
 undeserved
@@ -70550,7 +70443,7 @@ what
 is
 your
 opinion
-_now_
+now
 of
 this
 sad
@@ -70790,7 +70683,7 @@ is
 nothing
 extravagant
 in
-_their_
+their
 housekeeping
 i
 dare
@@ -70810,7 +70703,7 @@ upon
 it
 yes
 yes
-_they_
+they
 will
 take
 care
@@ -70819,7 +70712,7 @@ to
 outrun
 their
 income
-_they_
+they
 will
 never
 be
@@ -70913,7 +70806,7 @@ so
 much
 the
 better
-_i_
+i
 should
 be
 ashamed
@@ -70927,7 +70820,6 @@ entailed
 on
 me
 chapter
-41
 the
 first
 week
@@ -71097,7 +70989,7 @@ sure
 i
 shall
 break
-_mine_
+mine
 said
 lydia
 if
@@ -71140,7 +71032,7 @@ sure
 it
 would
 do
-_me_
+me
 a
 great
 deal
@@ -71265,14 +71157,14 @@ and
 out
 of
 their
-_three_
+three
 months
 acquaintance
 they
 had
 been
 intimate
-_two_
+two
 the
 rapture
 of
@@ -71357,7 +71249,7 @@ forster
 should
 not
 ask
-_me_
+me
 as
 well
 as
@@ -71367,7 +71259,7 @@ she
 though
 i
 am
-_not_
+not
 her
 particular
 friend
@@ -72875,7 +72767,7 @@ to
 assume
 even
 the
-_appearance_
+appearance
 of
 what
 is
@@ -73040,7 +72932,7 @@ evening
 passed
 with
 the
-_appearance_
+appearance
 on
 his
 side
@@ -73192,7 +73084,6 @@ without
 being
 heard
 chapter
-42
 had
 elizabeths
 opinion
@@ -75018,7 +74909,6 @@ were
 to
 go
 chapter
-43
 elizabeth
 as
 they
@@ -75857,7 +75747,7 @@ handsome
 i
 am
 sure
-_i_
+i
 know
 none
 so
@@ -76090,7 +75980,7 @@ do
 not
 know
 when
-_that_
+that
 will
 be
 i
@@ -77746,7 +77636,7 @@ yet
 there
 had
 been
-_that_
+that
 in
 his
 voice
@@ -78433,7 +78323,7 @@ companions
 that
 he
 was
-_surprised_
+surprised
 by
 the
 connection
@@ -78631,11 +78521,11 @@ it
 cannot
 be
 for
-_me_it
+meit
 cannot
 be
 for
-_my_
+my
 sake
 that
 his
@@ -78909,7 +78799,7 @@ judge
 by
 his
 complexion
-_his_
+his
 mind
 was
 not
@@ -79182,7 +79072,7 @@ worn
 out
 before
 the
-_têteàtête_
+ttette
 was
 over
 on
@@ -79275,7 +79165,7 @@ said
 her
 uncle
 there
-_is_
+is
 something
 a
 little
@@ -79314,7 +79204,7 @@ may
 call
 him
 proud
-_i_
+i
 have
 seen
 nothing
@@ -79593,7 +79483,7 @@ master
 i
 suppose
 and
-_that_
+that
 in
 the
 eye
@@ -79851,7 +79741,6 @@ with
 his
 sister
 chapter
-44
 elizabeth
 had
 settled
@@ -80825,7 +80714,7 @@ not
 met
 since
 the
-26th
+th
 of
 november
 when
@@ -80862,7 +80751,7 @@ of
 the
 rest
 whether
-_all_
+all
 her
 sisters
 were
@@ -80933,7 +80822,7 @@ accent
 so
 removed
 from
-_hauteur_
+hauteur
 or
 disdain
 of
@@ -81188,7 +81077,7 @@ desirous
 of
 knowing
 how
-_she_
+she
 whom
 the
 invitation
@@ -81708,7 +81597,7 @@ determine
 her
 feelings
 towards
-_one_
+one
 in
 that
 mansion
@@ -82187,7 +82076,6 @@ pemberley
 before
 noon
 chapter
-45
 convinced
 as
 elizabeth
@@ -83013,7 +82901,7 @@ a
 great
 loss
 to
-_your_
+your
 family
 in
 darcys
@@ -83736,7 +83624,7 @@ been
 dining
 at
 netherfield
-_she_
+she
 a
 beautyi
 should
@@ -83776,7 +83664,7 @@ himself
 no
 longer
 but
-_that_
+that
 was
 only
 when
@@ -83915,7 +83803,6 @@ beginning
 the
 subject
 chapter
-46
 elizabeth
 had
 been
@@ -84764,7 +84651,7 @@ plan
 and
 even
 if
-_he_
+he
 could
 form
 such
@@ -85470,7 +85357,7 @@ off
 together
 from
 brighton
-_you_
+you
 know
 him
 too
@@ -85512,12 +85399,12 @@ more
 agitated
 voice
 that
-_i_
+i
 might
 have
 prevented
 it
-_i_
+i
 who
 knew
 what
@@ -85680,7 +85567,7 @@ in
 silent
 acquiescence
 when
-_my_
+my
 eyes
 were
 opened
@@ -85751,7 +85638,7 @@ power
 was
 sinking
 everything
-_must_
+must
 sink
 under
 such
@@ -86732,7 +86619,7 @@ to
 keep
 our
 engagement
-_that_
+that
 is
 all
 settled
@@ -86912,7 +86799,6 @@ road
 to
 longbourn
 chapter
-47
 i
 have
 been
@@ -87419,7 +87305,7 @@ in
 his
 family
 that
-_he_
+he
 would
 do
 as
@@ -88024,7 +87910,7 @@ occurred
 to
 me
 that
-_she_
+she
 could
 be
 in
@@ -88042,7 +87928,7 @@ such
 a
 consequence
 as
-_this_
+this
 could
 ensue
 you
@@ -88153,7 +88039,7 @@ but
 he
 never
 distinguished
-_her_
+her
 by
 any
 particular
@@ -88789,7 +88675,7 @@ with
 all
 my
 family
-_this_
+this
 would
 not
 have
@@ -89132,7 +89018,7 @@ are
 not
 married
 already
-_make_
+make
 them
 marry
 and
@@ -89382,7 +89268,7 @@ judged
 it
 better
 that
-_one_
+one
 only
 of
 the
@@ -89806,7 +89692,7 @@ to
 the
 utmost
 he
-_was_
+was
 coming
 to
 us
@@ -89869,7 +89755,7 @@ but
 when
 questioned
 by
-_him_
+him
 denny
 denied
 knowing
@@ -89897,7 +89783,7 @@ their
 not
 marryingand
 from
-_that_
+that
 i
 am
 inclined
@@ -90454,7 +90340,7 @@ least
 it
 shows
 that
-_she_
+she
 was
 serious
 on
@@ -90477,7 +90363,7 @@ on
 her
 side
 a
-_scheme_
+scheme
 of
 infamy
 my
@@ -90766,7 +90652,7 @@ cried
 elizabeth
 perhaps
 she
-_meant_
+meant
 well
 but
 under
@@ -90987,7 +90873,6 @@ much
 as
 this
 chapter
-48
 the
 whole
 party
@@ -91057,7 +90942,7 @@ send
 but
 even
 of
-_that_
+that
 they
 would
 have
@@ -92711,7 +92596,7 @@ be
 fairly
 conjectured
 from
-_that_
+that
 though
 elizabeth
 who
@@ -93087,7 +92972,7 @@ said
 kitty
 fretfully
 if
-_i_
+i
 should
 ever
 go
@@ -93099,7 +92984,7 @@ behave
 better
 than
 lydia
-_you_
+you
 go
 to
 brighton
@@ -93237,7 +93122,6 @@ end
 of
 them
 chapter
-49
 two
 days
 after
@@ -93590,9 +93474,8 @@ is
 about
 gracechurch
 street
-_monday
-august_
-2
+monday
+august
 my
 dear
 brother
@@ -94149,12 +94032,12 @@ so
 little
 and
 they
-_must_
+must
 marry
 yet
 he
 is
-_such_
+such
 a
 man
 yes
@@ -94402,7 +94285,7 @@ this
 is
 and
 for
-_this_
+this
 we
 are
 to
@@ -95480,7 +95363,6 @@ they
 had
 gained
 chapter
-50
 mr
 bennet
 had
@@ -96357,7 +96239,7 @@ a
 right
 understanding
 into
-_one_
+one
 house
 in
 this
@@ -97679,7 +97561,6 @@ of
 her
 wishes
 chapter
-51
 their
 sisters
 wedding
@@ -97740,7 +97621,7 @@ have
 attended
 herself
 had
-_she_
+she
 been
 the
 culprit
@@ -98031,7 +97912,7 @@ of
 an
 impudent
 man
-_she_
+she
 blushed
 and
 jane
@@ -98952,7 +98833,7 @@ lizzy
 i
 never
 gave
-_you_
+you
 an
 account
 of
@@ -99327,7 +99208,7 @@ afterwards
 that
 if
 he
-_had_
+had
 been
 prevented
 going
@@ -99673,7 +99554,7 @@ ignorance
 not
 that
 i
-_shall_
+shall
 though
 she
 added
@@ -99753,7 +99634,6 @@ without
 a
 confidante
 chapter
-52
 elizabeth
 had
 the
@@ -99823,8 +99703,7 @@ a
 denial
 gracechurch
 street
-_sept_
-6
+sept
 my
 dear
 niece
@@ -99848,7 +99727,7 @@ i
 foresee
 that
 a
-_little_
+little
 writing
 will
 not
@@ -99873,7 +99752,7 @@ not
 expect
 it
 from
-_you_
+you
 dont
 think
 me
@@ -99898,7 +99777,7 @@ to
 be
 necessary
 on
-_your_
+your
 side
 if
 you
@@ -99997,7 +99876,7 @@ so
 dreadfully
 racked
 as
-_yours_
+yours
 seems
 to
 have
@@ -100155,8 +100034,8 @@ by
 himself
 if
 he
-_had
-another_
+had
+another
 motive
 i
 am
@@ -100192,7 +100071,7 @@ which
 was
 more
 than
-_we_
+we
 had
 and
 the
@@ -100502,7 +100381,7 @@ learnt
 had
 never
 been
-_his_
+his
 design
 he
 confessed
@@ -100696,7 +100575,7 @@ everything
 being
 settled
 between
-_them_
+them
 mr
 darcys
 next
@@ -100837,7 +100716,7 @@ on
 sunday
 and
 then
-_i_
+i
 saw
 him
 too
@@ -100891,7 +100770,7 @@ at
 different
 times
 but
-_this_
+this
 is
 the
 true
@@ -101080,7 +100959,7 @@ her
 own
 settled
 upon
-_her_
+her
 and
 his
 commission
@@ -101142,15 +101021,15 @@ was
 some
 truth
 in
-_this_
+this
 though
 i
 doubt
 whether
-_his_
+his
 reserve
 or
-_anybodys_
+anybodys
 reserve
 can
 be
@@ -101189,8 +101068,8 @@ given
 him
 credit
 for
-_another
-interest_
+another
+interest
 in
 the
 affair
@@ -101286,7 +101165,7 @@ admission
 to
 the
 house
-_he_
+he
 was
 exactly
 what
@@ -101311,7 +101190,7 @@ i
 was
 satisfied
 with
-_her_
+her
 behaviour
 while
 she
@@ -101520,11 +101399,11 @@ little
 more
 liveliness
 and
-_that_
+that
 if
 he
 marry
-_prudently_
+prudently
 his
 wife
 may
@@ -102161,7 +102040,7 @@ indeed
 if
 it
 were
-_we_
+we
 were
 always
 good
@@ -102299,7 +102178,7 @@ such
 a
 distance
 as
-_that_
+that
 you
 know
 things
@@ -102580,15 +102459,15 @@ were
 in
 kent
 i
-_have_
+have
 heard
 from
 authority
 which
 i
 thought
-_as
-good_
+as
+good
 that
 it
 was
@@ -102611,7 +102490,7 @@ there
 was
 something
 in
-_that_
+that
 i
 told
 you
@@ -102623,7 +102502,7 @@ you
 may
 remember
 i
-_did_
+did
 hear
 too
 that
@@ -102780,7 +102659,6 @@ entered
 the
 house
 chapter
-53
 mr
 wickham
 was
@@ -102918,7 +102796,7 @@ sisters
 may
 write
 to
-_me_
+me
 they
 will
 have
@@ -103244,7 +103122,7 @@ and
 who
 knows
 what
-_may_
+may
 happen
 but
 that
@@ -103441,7 +103319,7 @@ i
 felt
 that
 i
-_should_
+should
 be
 looked
 at
@@ -103485,7 +103363,7 @@ i
 am
 afraid
 of
-_myself_
+myself
 but
 i
 dread
@@ -103545,7 +103423,7 @@ of
 his
 coming
 there
-_with_
+with
 his
 friends
 permission
@@ -103584,7 +103462,7 @@ all
 this
 speculation
 i
-_will_
+will
 leave
 him
 to
@@ -103737,7 +103615,7 @@ to
 netherfield
 tis
 an
-_etiquette_
+etiquette
 i
 despise
 said
@@ -103760,7 +103638,7 @@ i
 will
 not
 spend
-_my_
+my
 hours
 in
 running
@@ -103867,7 +103745,7 @@ consequence
 of
 it
 before
-_they_
+they
 did
 as
 the
@@ -104946,7 +104824,7 @@ come
 back
 again
 people
-_did_
+did
 say
 you
 meant
@@ -105195,7 +105073,7 @@ thank
 heaven
 he
 has
-_some_
+some
 friends
 though
 perhaps
@@ -105721,7 +105599,6 @@ thousand
 a
 year
 chapter
-54
 as
 soon
 as
@@ -106441,7 +106318,7 @@ not
 come
 to
 me
-_then_
+then
 said
 she
 i
@@ -107313,11 +107190,10 @@ indifference
 do
 not
 make
-_me_
+me
 your
 confidante
 chapter
-55
 a
 few
 days
@@ -107749,7 +107625,7 @@ and
 her
 entreaty
 that
-_she_
+she
 would
 not
 give
@@ -108213,13 +108089,13 @@ have
 told
 it
 all
-_their_
+their
 situation
 was
 awkward
 enough
 but
-_hers_
+hers
 she
 thought
 was
@@ -108906,7 +108782,7 @@ would
 be
 unpardonable
 in
-_me_
+me
 exceed
 their
 income
@@ -109387,7 +109263,7 @@ but
 a
 persuasion
 of
-_my_
+my
 being
 indifferent
 would
@@ -109650,7 +109526,6 @@ out
 for
 misfortune
 chapter
-56
 one
 morning
 about
@@ -109955,7 +109830,7 @@ that
 she
 was
 and
-_that_
+that
 i
 suppose
 is
@@ -110436,7 +110311,7 @@ with
 but
 however
 insincere
-_you_
+you
 may
 choose
 to
@@ -110445,7 +110320,7 @@ you
 shall
 not
 find
-_me_
+me
 so
 my
 character
@@ -110528,7 +110403,7 @@ mr
 darcy
 though
 i
-_know_
+know
 it
 must
 be
@@ -110684,7 +110559,7 @@ that
 there
 is
 no
-_foundation_
+foundation
 for
 it
 i
@@ -110698,12 +110573,12 @@ frankness
 with
 your
 ladyship
-_you_
+you
 may
 ask
 questions
 which
-_i_
+i
 shall
 not
 choose
@@ -110759,7 +110634,7 @@ of
 his
 reason
 but
-_your_
+your
 arts
 and
 allurements
@@ -110846,7 +110721,7 @@ not
 entitled
 to
 know
-_mine_
+mine
 nor
 will
 such
@@ -110885,8 +110760,8 @@ darcy
 is
 engaged
 to
-_my
-daughter_
+my
+daughter
 now
 what
 have
@@ -110948,7 +110823,7 @@ the
 favourite
 wish
 of
-_his_
+his
 mother
 as
 well
@@ -111318,7 +111193,7 @@ habit
 of
 brooking
 disappointment
-_that_
+that
 will
 make
 your
@@ -111335,7 +111210,7 @@ have
 no
 effect
 on
-_me_
+me
 i
 will
 not
@@ -111482,7 +111357,7 @@ are
 equal
 true
 you
-_are_
+are
 a
 gentlemans
 daughter
@@ -111525,7 +111400,7 @@ can
 be
 nothing
 to
-_you_
+you
 tell
 me
 once
@@ -111634,7 +111509,7 @@ require
 and
 i
 certainly
-_never_
+never
 shall
 give
 it
@@ -111667,7 +111542,7 @@ the
 wishedfor
 promise
 make
-_their_
+their
 marriage
 at
 all
@@ -111681,7 +111556,7 @@ attached
 to
 me
 would
-_my_
+my
 refusing
 to
 accept
@@ -111751,7 +111626,7 @@ of
 your
 interference
 in
-_his_
+his
 affairs
 i
 cannot
@@ -111842,7 +111717,7 @@ and
 uncles
 and
 is
-_such_
+such
 a
 girl
 to
@@ -111851,7 +111726,7 @@ my
 nephews
 sister
 is
-_her_
+her
 husband
 who
 is
@@ -111884,7 +111759,7 @@ thus
 polluted
 you
 can
-_now_
+now
 have
 nothing
 further
@@ -112007,7 +111882,7 @@ happiness
 without
 reference
 to
-_you_
+you
 or
 to
 any
@@ -112107,7 +111982,7 @@ world
 if
 the
 former
-_were_
+were
 excited
 by
 his
@@ -112381,7 +112256,6 @@ conversation
 was
 impossible
 chapter
-57
 the
 discomposure
 of
@@ -112468,7 +112342,7 @@ till
 she
 recollected
 that
-_his_
+his
 being
 the
 intimate
@@ -112476,7 +112350,7 @@ friend
 of
 bingley
 and
-_her_
+her
 being
 the
 sister
@@ -112546,7 +112420,7 @@ catherine
 had
 only
 set
-_that_
+that
 down
 as
 almost
@@ -112554,7 +112428,7 @@ certain
 and
 immediate
 which
-_she_
+she
 had
 looked
 forward
@@ -112668,7 +112542,7 @@ of
 her
 ladyship
 than
-_she_
+she
 could
 do
 and
@@ -112684,7 +112558,7 @@ of
 a
 marriage
 with
-_one_
+one
 whose
 immediate
 connections
@@ -113055,7 +112929,7 @@ before
 that
 i
 had
-_two_
+two
 daughters
 on
 the
@@ -113144,7 +113018,7 @@ i
 may
 defy
 even
-_your_
+your
 sagacity
 to
 discover
@@ -113165,7 +113039,7 @@ collins
 and
 what
 can
-_he_
+he
 have
 to
 say
@@ -113428,8 +113302,8 @@ with
 a
 friendly
 eye
-_mr
-darcy_
+mr
+darcy
 you
 see
 is
@@ -113440,7 +113314,7 @@ lizzy
 i
 think
 i
-_have_
+have
 surprised
 you
 could
@@ -113491,7 +113365,7 @@ probably
 never
 looked
 at
-_you_
+you
 in
 his
 life
@@ -113755,7 +113629,7 @@ mentioned
 in
 your
 hearing
-_that_
+that
 is
 his
 notion
@@ -113798,7 +113672,7 @@ not
 going
 to
 be
-_missish_
+missish
 i
 hope
 and
@@ -113841,7 +113715,7 @@ it
 is
 so
 strange
-yes_that_
+yesthat
 is
 what
 makes
@@ -113860,11 +113734,11 @@ have
 been
 nothing
 but
-_his_
+his
 perfect
 indifference
 and
-_your_
+your
 pointed
 dislike
 make
@@ -114027,15 +113901,14 @@ of
 his
 seeing
 too
-_little_
+little
 she
 might
 have
 fancied
 too
-_much_
+much
 chapter
-58
 instead
 of
 receiving
@@ -114443,7 +114316,7 @@ discovering
 them
 if
 you
-_will_
+will
 thank
 me
 he
@@ -114481,7 +114354,7 @@ to
 deny
 but
 your
-_family_
+family
 owe
 me
 nothing
@@ -114496,7 +114369,7 @@ i
 thought
 only
 of
-_you_
+you
 elizabeth
 was
 too
@@ -114536,7 +114409,7 @@ me
 so
 at
 once
-_my_
+my
 affections
 and
 wishes
@@ -114750,7 +114623,7 @@ of
 his
 aunt
 who
-_did_
+did
 call
 on
 him
@@ -114814,7 +114687,7 @@ from
 her
 nephew
 which
-_she_
+she
 had
 refused
 to
@@ -114889,13 +114762,13 @@ know
 enough
 of
 my
-_frankness_
+frankness
 to
 believe
 me
 capable
 of
-_that_
+that
 after
 abusing
 you
@@ -115447,7 +115320,7 @@ philosophy
 of
 the
 kind
-_your_
+your
 retrospections
 must
 be
@@ -115475,7 +115348,7 @@ of
 innocence
 but
 with
-_me_
+me
 it
 is
 not
@@ -115515,7 +115388,7 @@ was
 taught
 what
 was
-_right_
+right
 but
 i
 was
@@ -115548,7 +115421,7 @@ many
 years
 an
 only
-_child_
+child
 i
 was
 spoilt
@@ -115598,7 +115471,7 @@ of
 the
 world
 to
-_wish_
+wish
 at
 least
 to
@@ -115747,7 +115620,7 @@ have
 hated
 me
 after
-_that_
+that
 evening
 hate
 you
@@ -115802,7 +115675,7 @@ not
 be
 greater
 than
-_mine_
+mine
 in
 being
 noticed
@@ -115828,13 +115701,13 @@ not
 expect
 to
 receive
-_more_
+more
 than
 my
 due
 my
 object
-_then_
+then
 replied
 darcy
 was
@@ -116043,7 +115916,7 @@ introduced
 the
 discussion
 of
-_their_
+their
 affairs
 darcy
 was
@@ -116469,7 +116342,6 @@ hall
 they
 parted
 chapter
-59
 my
 dear
 lizzy
@@ -116578,13 +116450,13 @@ agitated
 and
 confused
 rather
-_knew_
+knew
 that
 she
 was
 happy
 than
-_felt_
+felt
 herself
 to
 be
@@ -116634,7 +116506,7 @@ others
 it
 was
 a
-_dislike_
+dislike
 which
 not
 all
@@ -116759,7 +116631,7 @@ nothing
 of
 the
 matter
-_that_
+that
 is
 all
 to
@@ -116953,7 +116825,7 @@ only
 think
 i
 feel
-_more_
+more
 than
 i
 ought
@@ -116992,7 +116864,7 @@ my
 dearest
 sister
 now
-_be_
+be
 serious
 i
 want
@@ -117706,7 +117578,7 @@ be
 through
 her
 meansthat
-_she_
+she
 his
 favourite
 child
@@ -118034,7 +117906,7 @@ now
 give
 it
 to
-_you_
+you
 if
 you
 are
@@ -118113,7 +117985,7 @@ the
 grief
 of
 seeing
-_you_
+you
 unable
 to
 respect
@@ -118320,7 +118192,7 @@ doing
 i
 must
 and
-_would_
+would
 have
 paid
 him
@@ -118930,7 +118802,7 @@ think
 i
 shall
 like
-_your_
+your
 husband
 quite
 as
@@ -118938,7 +118810,6 @@ well
 as
 janes
 chapter
-60
 elizabeths
 spirits
 soon
@@ -119025,7 +118896,7 @@ i
 knew
 that
 i
-_had_
+had
 begun
 my
 beauty
@@ -119040,7 +118911,7 @@ my
 mannersmy
 behaviour
 to
-_you_
+you
 was
 at
 least
@@ -119125,7 +118996,7 @@ looking
 and
 thinking
 for
-_your_
+your
 approbation
 alone
 i
@@ -119138,7 +119009,7 @@ i
 was
 so
 unlike
-_them_
+them
 had
 you
 not
@@ -119219,7 +119090,7 @@ mebut
 nobody
 thinks
 of
-_that_
+that
 when
 they
 fall
@@ -119414,7 +119285,7 @@ wonder
 how
 long
 you
-_would_
+would
 have
 gone
 on
@@ -119429,7 +119300,7 @@ i
 wonder
 when
 you
-_would_
+would
 have
 spoken
 if
@@ -119452,8 +119323,8 @@ had
 certainly
 great
 effect
-_too
-much_
+too
+much
 i
 am
 afraid
@@ -119612,7 +119483,7 @@ purpose
 was
 to
 see
-_you_
+you
 and
 to
 judge
@@ -119778,7 +119649,7 @@ letter
 but
 now
 having
-_that_
+that
 to
 communicate
 which
@@ -119852,7 +119723,7 @@ than
 really
 existed
 but
-_now_
+now
 suppose
 as
 much
@@ -120405,7 +120276,7 @@ encouraged
 yet
 whenever
 she
-_did_
+did
 speak
 she
 must
@@ -120528,7 +120399,6 @@ party
 at
 pemberley
 chapter
-61
 happy
 for
 all
@@ -120701,11 +120571,11 @@ not
 desirable
 even
 to
-_his_
+his
 easy
 temper
 or
-_her_
+her
 affectionate
 heart
 the
@@ -121331,7 +121201,7 @@ darcy
 could
 never
 receive
-_him_
+him
 at
 pemberley
 yet
@@ -121389,7 +121259,7 @@ so
 far
 as
 to
-_talk_
+talk
 of
 giving
 them
@@ -121794,9 +121664,9 @@ file
 should
 be
 named
-13420txt
+txt
 or
-13420zip
+zip
 this
 and
 all
@@ -121809,7 +121679,7 @@ will
 be
 found
 in
-httpwwwgutenbergorg1341342
+httpwwwgutenbergorg
 produced
 by
 anonymous
@@ -122061,7 +121931,6 @@ online
 at
 httpgutenbergorglicense
 section
-1
 general
 terms
 of
@@ -122072,7 +121941,7 @@ project
 gutenbergtm
 electronic
 works
-1a
+a
 by
 reading
 or
@@ -122192,8 +122061,8 @@ set
 forth
 in
 paragraph
-1e8
-1b
+e
+b
 project
 gutenberg
 is
@@ -122255,7 +122124,7 @@ this
 agreement
 see
 paragraph
-1c
+c
 below
 there
 are
@@ -122292,9 +122161,9 @@ electronic
 works
 see
 paragraph
-1e
+e
 below
-1c
+c
 the
 project
 gutenberg
@@ -122463,7 +122332,7 @@ without
 charge
 with
 others
-1d
+d
 the
 copyright
 laws
@@ -122555,7 +122424,7 @@ outside
 the
 united
 states
-1e
+e
 unless
 you
 have
@@ -122565,7 +122434,7 @@ references
 to
 project
 gutenberg
-1e1
+e
 the
 following
 sentence
@@ -122664,7 +122533,7 @@ or
 online
 at
 wwwgutenbergorg
-1e2
+e
 if
 an
 individual
@@ -122744,9 +122613,9 @@ the
 requirements
 of
 paragraphs
-1e1
+e
 through
-1e7
+e
 or
 obtain
 permission
@@ -122766,10 +122635,10 @@ set
 forth
 in
 paragraphs
-1e8
+e
 or
-1e9
-1e3
+e
+e
 if
 an
 individual
@@ -122795,9 +122664,9 @@ comply
 with
 both
 paragraphs
-1e1
+e
 through
-1e7
+e
 and
 any
 additional
@@ -122835,7 +122704,7 @@ beginning
 of
 this
 work
-1e4
+e
 do
 not
 unlink
@@ -122869,7 +122738,7 @@ associated
 with
 project
 gutenbergtm
-1e5
+e
 do
 not
 copy
@@ -122897,7 +122766,7 @@ set
 forth
 in
 paragraph
-1e1
+e
 with
 active
 links
@@ -122913,7 +122782,7 @@ the
 project
 gutenbergtm
 license
-1e6
+e
 you
 may
 convert
@@ -123034,8 +122903,8 @@ as
 specified
 in
 paragraph
-1e1
-1e7
+e
+e
 do
 not
 charge
@@ -123059,10 +122928,10 @@ you
 comply
 with
 paragraph
-1e8
+e
 or
-1e9
-1e8
+e
+e
 you
 may
 charge
@@ -123090,7 +122959,6 @@ a
 royalty
 fee
 of
-20
 of
 the
 gross
@@ -123151,7 +123019,6 @@ must
 be
 paid
 within
-60
 days
 following
 each
@@ -123193,7 +123060,6 @@ address
 specified
 in
 section
-4
 information
 about
 donations
@@ -123225,7 +123091,6 @@ or
 by
 email
 within
-30
 days
 of
 receipt
@@ -123284,7 +123149,7 @@ in
 accordance
 with
 paragraph
-1f3
+f
 a
 full
 refund
@@ -123313,7 +123178,6 @@ reported
 to
 you
 within
-90
 days
 of
 receipt
@@ -123336,7 +123200,7 @@ of
 project
 gutenbergtm
 works
-1e9
+e
 if
 you
 wish
@@ -123397,10 +123261,9 @@ set
 forth
 in
 section
-3
 below
-1f
-1f1
+f
+f
 project
 gutenberg
 volunteers
@@ -123489,7 +123352,7 @@ read
 by
 your
 equipment
-1f2
+f
 limited
 warranty
 disclaimer
@@ -123506,7 +123369,7 @@ refund
 described
 in
 paragraph
-1f3
+f
 the
 project
 gutenberg
@@ -123569,7 +123432,7 @@ those
 provided
 in
 paragraph
-f3
+f
 you
 agree
 that
@@ -123610,7 +123473,7 @@ possibility
 of
 such
 damage
-1f3
+f
 limited
 right
 of
@@ -123627,7 +123490,6 @@ this
 electronic
 work
 within
-90
 days
 of
 receiving
@@ -123753,7 +123615,7 @@ to
 fix
 the
 problem
-1f4
+f
 except
 for
 the
@@ -123767,7 +123629,7 @@ set
 forth
 in
 paragraph
-1f3
+f
 this
 work
 is
@@ -123798,7 +123660,7 @@ fitness
 for
 any
 purpose
-1f5
+f
 some
 states
 do
@@ -123873,7 +123735,7 @@ void
 the
 remaining
 provisions
-1f6
+f
 indemnity
 you
 agree
@@ -123976,7 +123838,6 @@ defect
 you
 cause
 section
-2
 information
 about
 the
@@ -124065,7 +123926,6 @@ generations
 to
 come
 in
-2001
 the
 project
 gutenberg
@@ -124107,9 +123967,7 @@ can
 help
 see
 sections
-3
 and
-4
 and
 the
 foundation
@@ -124118,7 +123976,6 @@ page
 at
 httpwwwpglaforg
 section
-3
 information
 about
 the
@@ -124137,7 +123994,7 @@ is
 a
 non
 profit
-501c3
+c
 educational
 corporation
 organized
@@ -124168,9 +124025,8 @@ tax
 identification
 number
 is
-646221541
 its
-501c3
+c
 letter
 is
 posted
@@ -124207,13 +124063,11 @@ office
 is
 located
 at
-4557
 melan
 dr
 s
 fairbanks
 ak
-99712
 but
 its
 volunteers
@@ -124230,17 +124084,12 @@ office
 is
 located
 at
-809
 north
-1500
 west
 salt
 lake
 city
 ut
-84116
-801
-5961887
 email
 businesspglaforg
 email
@@ -124279,7 +124128,6 @@ and
 director
 gbnewbypglaforg
 section
-4
 information
 about
 donations
@@ -124341,9 +124189,7 @@ equipment
 many
 small
 donations
-1
 to
-5000
 are
 particularly
 important
@@ -124371,7 +124217,6 @@ charitable
 donations
 in
 all
-50
 states
 of
 the
@@ -124536,7 +124381,6 @@ please
 visit
 httppglaforgdonate
 section
-5
 general
 information
 about
