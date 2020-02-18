@@ -5,7 +5,7 @@ void setup(){
   String[] lines = loadStrings("../wordfrequency.txt");
   vals = new int[lines.length][2];
   getVals(lines);
-  background(150, 150, 150);
+  background(210, 210, 150);
   fullScreen();  
   
   //imports and sets font
