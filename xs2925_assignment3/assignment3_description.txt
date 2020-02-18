@@ -11,3 +11,4 @@ Python file has three functionalities, extract all words, find unique words, fin
 
 The processing novel visualization file loads unique words texts and generates a word cloud with three different colors. We used three low saturated colors to create a light and crisp color scheme. We used a small font (“20”) because big fonts were cluttering the small canvas size (600x700).  We used the courier font used in the class example because we found it to be aesthetically pleasing. The small lines of this font also fit our small fontSize scheme for a crisper look.
 
+Graph has been given colors to more easily differentiate between bars and to make graphic less dull. Labels have been added for more clarity. For extra credit, scalability has been added. The graph and labels will scale to screen size. Additionally, a text font was imported and used. 
