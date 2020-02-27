@@ -1,0 +1,3 @@
+class RobotArm extends Robot{
+  
+}

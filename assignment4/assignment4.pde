@@ -1,8 +1,10 @@
+Robot robot = new Robot(220,250,60,75,1);
 void setup(){
   size(500,500);
-  robot = new Robot(5,4,2,3);
 }
 
 void draw(){
+  background(255);
   robot.display();
+  robot.update();
 }

@@ -1,58 +1,37 @@
 class Robot {
-  float x, y, radius, speed;
+  float x, y,wid,hei ,speed;
  
-  // default constructor
+  //default constructor
   Robot() {
     x = 50;
     y = 50;
-    radius = 10;
-    speed = 5;
+    wid = 50;
+    hei = 50;
+    speed = 1;
   }
  
-  // custom constructor
-  Robot(float x, float y, float radius, float speed) {
+
+  Robot(float x, float y, float wid, float hei, float speed) {
     this.x = x;
     this.y = y;
-    this.radius = radius;
+    this.wid = wid;
+    this.hei = hei;
     this.speed = speed;
   };
  
-  // display the spot
+  // display the robot body
   void display() {
-    fill(255);
-    ellipse(x, y, radius, radius);
+    fill(0,128,0);
+    rect(x, y, wid,hei);
   }
  
-  // move the spot
-  void move() {
-    // randomize direction
-    int directionX = (int )(Math.random() * 2 + 1);
-    int directionY = (int )(Math.random() * 2 + 1);
-    
-    // if spot at border ensure move in other direction
-    if (x == width) {
-      directionX = 2;
-    }
-    if (y == height) {
-      directionY = 2;
-    }
-    if (x == 0) {
-      directionX = 1;
-    }
-    if (y == 0) {
-      directionY = 1;
-    }
-    
-    // move spot in set directions with given speed
-    if (directionX == 1) {
-      x += speed;
-    } else {
-      x -= speed;
-    }
-    if (directionY == 1) {
-      y += speed;
-    } else {
-      y -= speed;
-    }
+  
+  void updatePosition(){
+    y -=1;
   }
+  void update() {
+    fill(128,0,0);
+    updatePosition();
+    
+ }
 }
