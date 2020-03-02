@@ -1,3 +1,8 @@
-class RobotArm extends Robot{
+
+
+
+class RobotArm {
+  
+  
   
 }
