@@ -12,7 +12,7 @@ Robot[] robots = new Robot[8];
 Star[] backgroundStars = new Star[500];
 
 void setup(){
-  frameRate(30);
+  frameRate(60);
   fullScreen();
   background(25);
   path = sketchPath(audioName);
