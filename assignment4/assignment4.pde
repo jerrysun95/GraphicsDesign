@@ -1,6 +1,10 @@
 
 
 
+import processing.sound.*;
+SoundFile file;
+String audioName = "SpaceCruise.mp3";
+String path;
 //empty array of Robot object
 Robot[] robots = new Robot[8];
 
@@ -8,8 +12,12 @@ Robot[] robots = new Robot[8];
 Star[] backgroundStars = new Star[500];
 
 void setup(){
+  frameRate(30);
   fullScreen();
   background(25);
+  path = sketchPath(audioName);
+  file = new SoundFile(this, path);
+  file.play();
   
   for (int i = 0; i < robots.length; i++){
     if (random(0, 1) < 0.5){
