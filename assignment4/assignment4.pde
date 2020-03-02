@@ -1,12 +1,14 @@
-Robot robot = new Robot(220,250,60,75,1);
+Robot robot;
 
 //empty array of Star objects
 Star[] backgroundStars = new Star[500];
 
 void setup(){
-  //size(800,600);
-  fullScreen();
+  size(800,600);
+  //fullScreen();
   background(25);
+  
+  robot = new Robot(1, 1, true, true);
   
   //fills array with Star objects of random sizes, x/y positions
   for (int i = 0; i < backgroundStars.length; i++){

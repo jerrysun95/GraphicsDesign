@@ -1,9 +1,9 @@
-//import java.lang.Math;
-//import java.util.Random;
+
+
 
 class Star{
   int x, size;
-  double y, speed;
+  float y, speed;
   
   Star(){
     //initializes stars at random x/y positions with random sizes
@@ -32,7 +32,7 @@ class Star{
   private void randomize(){
     this.x = (int) (Math.random() * (width));
     this.size = (int) (Math.random() * (5-2) + 2);
-    this.speed =  (Math.random() * (3) + 1);
+    this.speed =  (float) (Math.random() * (3) + 1);
   }
   
 }
