@@ -1,1 +1,2 @@
-Open assignment4.pde and run the processing sketch. The sketch loops infinitely until terminated. 
+Open assignment4.pde. Click the sketch tab, go to import library, then add library, then lookup "sound", then install the sound 
+module that is published by The Processing Foundation. Run the processing sketch. The sketch loops infinitely until terminated. 
