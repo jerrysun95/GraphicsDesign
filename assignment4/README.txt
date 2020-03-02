@@ -1,0 +1,1 @@
+Open assignment4.pde and run the processing sketch. The sketch loops infinitely until terminated. 

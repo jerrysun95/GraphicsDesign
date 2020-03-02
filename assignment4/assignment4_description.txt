@@ -1,0 +1,19 @@
+﻿Jerry(Xinyu) Sun
+Paras Gaba
+Austin Rinn
+
+
+In this processing animation, our group created a robot with arms and a jetpack attached flying through space. We had a robot class 
+which takes in all the other "robot parts" classes and makes the whole robot. Within the robot class file, there is also a zigzag robot 
+class which extends upon the robot class (the movement is zig zag instead of straight vertical). The RobotBody class creates the 
+body (rectangle) of the robot, which can vary based off size. RobotHead class makes two different types of heads, a circular head vs a 
+square head. The RobotJetpack class makes a jetpack on the robot, and it can vary by being on either the left size of the robot or the 
+right. The RobotJetpackThruster class has an inner flame and an outer flame to represent rocket thruster flames. The Star class creates 
+random stars that "fall down" creating a moving backgorund. 
+
+The size differences between the different instances of the robots made it harder to figure out size of the other robot parts, 
+because we had to think proportionally. 
+
+We mostly worked on this together, Austin specialized in the star class, and the overall structure of how we were going to 
+organize the heirarchies. Jerry specialized in the Robot, RobotBody, RobotHead. Paras specialized in RobotArm (we all worked on this collectively since it was the most complex), RobotJetpack, 
+RobotJetpackThruster class. Austin worked to put everything together. Jerry added the audio, and Paras worked on the project description.
