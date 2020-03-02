@@ -2,7 +2,8 @@
 //import java.util.Random;
 
 class Star{
-  int x, y, size;
+  int x, size;
+  double y, speed;
   
   Star(){
     //initializes stars at random x/y positions with random sizes
@@ -15,12 +16,12 @@ class Star{
     ellipseMode(CENTER);
     fill(255);
     noStroke();
-    circle(this.x, this.y, this.size);
+    circle(this.x, (int) this.y, this.size);
     stroke(1);
   }
   
   void update(){
-    this.y += 2;
+    this.y += speed;
     if (this.y > height + 5){
       this.y = 0;
       randomize();
@@ -30,7 +31,8 @@ class Star{
   //randomizes x/y positions and size
   private void randomize(){
     this.x = (int) (Math.random() * (width));
-    this.size = (int) (Math.random() * (5-2) * 2);
+    this.size = (int) (Math.random() * (5-2) + 2);
+    this.speed =  (Math.random() * (3) + 1);
   }
   
 }

@@ -4,7 +4,7 @@ Robot robot = new Robot(220,250,60,75,1);
 Star[] backgroundStars = new Star[500];
 
 void setup(){
-  size(500,500);
+  size(800,600);
   background(25);
   
   //fills array with Star objects of random sizes, x/y positions
