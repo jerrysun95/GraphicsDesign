@@ -1,0 +1,4 @@
+Project Description
+The animation is planets around the sun and the moons around the planets. We also added an obj object ( the UFO )that orbits one of the planets. The light is hard to get it right. We were unable to make the sun as the light source without making everything looking dark. 
+
+We mostly worked on it together again. Austin did the Moons and Paras did the Planets and Jerry did the Sun. Austin also were able to draw in obj file in blender which we used in our project. 
