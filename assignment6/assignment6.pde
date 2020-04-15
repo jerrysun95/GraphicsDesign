@@ -50,7 +50,7 @@ void keyPressed(){
       frameRate(frameRate-5);
       fill(200, 100, 100);
       circle(50, 50, 50);
-    }
+    } 
   } else if (key == '2'){
     frameRate(frameRate+5);
     fill(100, 200, 100);

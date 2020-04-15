@@ -4,17 +4,10 @@
 
 
 class Bug extends Animal{
-  boolean isHidden;
   
   Bug(float x, float y){
     super(x, y);
-  }
-  
-  boolean checkHidden(){
-    
-    return false;
-  }
-  
+  }  
 }
 
 

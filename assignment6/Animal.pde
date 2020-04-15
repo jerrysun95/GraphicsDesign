@@ -72,7 +72,7 @@ class Animal{
   //updates any values an Animal may have
   void update(){
     timeSinceLastMate++;
-    stamina -= 0.001; //lose stamina every step
+    stamina -= 0.0025; //lose stamina every step
     if (stamina < -1.0){ //if stamina drops below -1, the Animal dies
       isAlive = false;
     }

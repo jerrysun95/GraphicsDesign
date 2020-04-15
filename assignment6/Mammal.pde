@@ -4,25 +4,9 @@
 
 
 class Mammal extends Animal{
-  float bodyHeat; //if bodyHeat decreases to below 80, Mammal will die
-  
   
   Mammal(float x, float y){
     super(x, y);
-    bodyHeat = 90;
-  }
-  
-  void update(){
-    if (stamina < 0){
-      bodyHeat -= 0.5;
-    } else if (stamina > 0){
-      bodyHeat += 0.5;
-    }
-    if (bodyHeat > 90){
-      bodyHeat = 90;
-    } else if (bodyHeat < 80){
-      isAlive = false;
-    }
   }
 }
 
