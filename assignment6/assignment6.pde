@@ -11,14 +11,13 @@ PImage eagle;
 PImage ant;
 PImage tarantula;
 
-int timer; 
-int numTicks;
-
 void setup(){
   
-  fullScreen();
+  //fullScreen();
+  size(800, 600);
+  frameRate(10);
   
-  frameRate(30);
+  rectMode(CORNERS);
   
   food = loadImage("food.png");
   food.resize(20, 20);
@@ -30,29 +29,43 @@ void setup(){
   dog.resize(50, 50);
   eagle = loadImage("eagle.png");
   eagle.resize(40, 40);
+  bluejay = loadImage("bluejay.png");
+  bluejay.resize(30, 30);
   ant = loadImage("ant.png");
   ant.resize(20, 20);
   tarantula = loadImage("tarantula.png");
   tarantula.resize(40, 30);
   
+  e = new Environment(0, 0, 0, 0, 0, 0);
   
+}
+
+void keyPressed(){
+  e.addNew(key);
+  //slow down framerate with 1, speed up with 2
+  if (key == '1'){
+    if (frameRate <= 5) {
+      frameRate(5);
+    } else {
+      frameRate(frameRate-5);
+      fill(200, 100, 100);
+      circle(50, 50, 50);
+    }
+  } else if (key == '2'){
+    frameRate(frameRate+5);
+    fill(100, 200, 100);
+    circle(50, 50, 50);
+  }
+}
+
+void mousePressed(){
+  e.tryDelete();
 }
 
 
 void draw(){
-  numTicks++;
+  background(150, 150, 90);
   
-  image(cat, 100, 100);
-  image(dog, 200, 100);
-  image(ant, 100, 200);
-  image(tarantula, 200, 200);
-  image(eagle, 300, 100);
-  
-  //e.simulate();
-  
-  if (numTicks == timer){
-    numTicks = 0;
-    e.update();
-  }
+  e.simulate();
   
 }
