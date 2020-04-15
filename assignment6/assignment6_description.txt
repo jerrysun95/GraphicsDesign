@@ -1,0 +1,27 @@
+Assignment6 Description:
+The stimulation is an extension of the ant stimulation we did in class. We added 5 extra animal classes and made them interactive with each other based on the following rules
+
+Rules:
+Animal dies if its stamina goes below -1.0. Stamina decreases with every step. Stamina increases when an animal kills (and eats) another animal or when an animal eats food.
+Animal fights with another animal if the animal is in its attackTypes and they come in contact with each other.
+Animal breeds if it comes into contact with another animal of the same type if following the conditions are met:
+Both animals have not mated recently, and
+Both animals are above a threshold stamina of 0.5.
+
+
+The included classes do the following:
+Environment: It acts as the stimulation engine that controls the environment. It has all the rules for interactivity has the basic controls
+Animal: This is the grandparent class that all animals extends, it has basic features of an animal
+Bird: It extends from animal and make and suppose to added extra bird features, it has two children classes of eagle and bluejay. 
+Bug: It extends from the animal class and and split it into two children of ant and tarantula
+Mammal: It extends from the animal class and and split it into two children of cat and dog
+Food: This is the food class that animal eats to maintain stamina 
+Shrubbery: Suppose to brushes for animals to hide but wasn’t able to get it to work.
+
+Unexpected challenges: 
+It was really hard to get all the classes working together. The environment class was super hard to create which powers the whole stimulation. We wanted to have more animal specific functions but were short on time and energy. The shrubbery functionality for animals to hide in was difficult too. 
+
+Parts of Work: 
+Austin Rinn: Worked on Environment class, Food class, and Shrubbery class 
+Xinyu Sun: Worked on Animal class, added saveFrame()
+Paras: Worked all extension from the Animal class, including Cat, Dog, Bluejay, Eagle, Ant, and Tarantula

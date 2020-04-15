@@ -67,5 +67,6 @@ void draw(){
   background(150, 150, 90);
   
   e.simulate();
+  saveFrame();
   
 }
