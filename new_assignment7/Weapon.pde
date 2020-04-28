@@ -1,6 +1,5 @@
 
 
-
 class Weapon{
   int type;
   int fireTime, downTime;
@@ -35,8 +34,14 @@ class Weapon{
       }
       if (type == 0){
         downTime = 15;
+        gun1.play();
       } else if (type == 1){
         downTime = 5;
+        gun2.play();
+      }
+      else if (type ==2){
+        downTime = 2;
+        gun3.play();
       }
     }
   }

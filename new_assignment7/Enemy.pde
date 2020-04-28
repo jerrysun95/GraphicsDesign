@@ -58,3 +58,34 @@ class Flyer extends Enemy{
     }
   }
 }
+
+class Crawler extends Enemy{
+  boolean goingUp;
+  int moveCount;
+  float speed;
+  
+  Crawler(){
+    size = 9;
+    this.x = -10;
+    this.y = height-35;
+    moveCount = 50;
+    speed = 0.8;
+  }
+  
+  void update(){
+    move();
+  }
+  
+  void display(){
+    int currentFrame = frameCount * 15 / 60 % crawler.length;
+    pushMatrix();
+    translate(x,y);
+    image(crawler[currentFrame], 0, 0);
+    popMatrix();
+  }
+  
+  void move(){
+    x += speed;
+    moveCount++;
+  }
+}

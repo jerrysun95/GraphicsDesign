@@ -1,12 +1,21 @@
 
 
+  
+import processing.sound.*;
+SoundFile background;
+SoundFile die;
+SoundFile jump;
+SoundFile gun1;
+SoundFile gun2;
+SoundFile gun3;
 
 PImage[] pIdle = new PImage[4];
 PImage[] pWalk = new PImage[7];
-PImage[] weapons = new PImage[2];
+PImage[] weapons = new PImage[3];
 PImage[] bullets = new PImage[weapons.length];
 PImage flag, box;
 PImage[] flyer = new PImage[4];
+PImage[] crawler = new PImage[2];
 
 Handler h;
 
@@ -39,10 +48,25 @@ void setup(){
     flyer[i] = loadImage(imageName);
   }
   
+  // loading crawler  
+  for (int i = 0; i < crawler.length; i++){
+    String imageName = "data/enemies/crawler/crawler" + nf(i+1, 2) + ".gif";
+    crawler[i] = loadImage(imageName);
+  }
+  
   //imports and sets font
   pixelmania = createFont("data/font/Pixelmania.ttf", 25);
   textFont(pixelmania);
   
+  
+  //background soundtrack
+  background = new SoundFile(this, "data/sounds/background.mp3");
+  background.play();
+  // other soundtracks
+  die = new SoundFile(this, "data/sounds/die.mp3");
+  gun1 = new SoundFile(this, "data/sounds/gunOne.mp3");
+  gun2 = new SoundFile(this, "data/sounds/gunTwo.mp3");
+  gun3 = new SoundFile(this, "data/sounds/gunThree.mp3");
   noSmooth();
   noStroke();
   rectMode(CORNERS);
