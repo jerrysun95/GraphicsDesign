@@ -64,9 +64,10 @@ void setup(){
   background.play();
   // other soundtracks
   die = new SoundFile(this, "data/sounds/die.mp3");
-  gun1 = new SoundFile(this, "data/sounds/gunOne.mp3");
-  gun2 = new SoundFile(this, "data/sounds/gunTwo.mp3");
-  gun3 = new SoundFile(this, "data/sounds/gunThree.mp3");
+  gun1 = new SoundFile(this, "data/sounds/gun1.wav");
+  gun2 = new SoundFile(this, "data/sounds/gun2.wav");
+  gun3 = new SoundFile(this, "data/sounds/gun3.wav");
+  jump = new SoundFile(this, "data/sounds/jump.wav");
   noSmooth();
   noStroke();
   rectMode(CORNERS);
@@ -81,6 +82,7 @@ void draw(){
   
   h.update();
   h.display();
+  saveFrame();
   
 }
 

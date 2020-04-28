@@ -1,0 +1,22 @@
+
+
+The game starts as soon as the file is run. The goal of the game is to get the highest score you can. The score and difficulty increase every time a weapon is picked up. There is no win condition, but the game ends when the player comes in contact with an enemy or an enemy reaches the flag. 
+
+The classes are all fairly self explanatory. 
+  The player is the player. It walks, jumps, and uses a weapon.
+  Enemies move from left to right and kill the player in one hit.
+  Weapons are weapons. Bullets are bullets and kill enemies. 
+  Platforms are platforms (there is only one in the game).
+  The HUD keeps track of the score and displays it.
+  The box falls from the sky and brings with it a mystery weapon.
+  The Handler is essentially the engine that runs the game. It checks for game pauses, lose conditions, and contact between objects. It creates new objects and enemies. 
+
+The initial plan of the game was harder to implement than expected. Platforms were difficult to work with, so the project was restarted from scratch and a new game with a similar theme was created.
+
+Jerry worked on enemies, weapons, bullets, and music. He also was responsible for adding saveFrame() functionality. 
+
+Austin worked on the engine, base classes, pause system, and player, as well as other minor things. 
+
+Paras was not involved with the project outside of initial planning due to issues out of his control.
+
+

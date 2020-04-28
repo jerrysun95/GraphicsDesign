@@ -96,6 +96,7 @@ class Player{
     if (!airborne){
       airborne = true;
       yVel = -5;
+      jump.play();
     }
   }
   
